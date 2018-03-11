@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>crosshair.png</file>
+        <file>crosshair.ico</file>
+    </qresource>
+</RCC>
